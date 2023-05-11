@@ -1,5 +1,5 @@
 ### SQL
-файл [SQL.ipynb](https://github.com/AndreyPlyasov/data_analyst_portfolio/blob/main/SQL.ipynb)  
+файл [SQL.ipynb](https://github.com/AndreyPlyasov/data_analyst_portfolio/blob/main/SQL/SQL.ipynb)  
 `SQL` `PostgreSQL`  
 В этом проекте мы будем работать с базой данных, которая хранит информацию о венчурных фондах и инвестициях в компании-стартапы. Эта база данных основана на датасете Startup Investments, опубликованном на популярной платформе для соревнований по исследованию данных Kaggle.  
 В ходе работы произведены различные выгрузки данных венчурных фондов с помощью SQL.

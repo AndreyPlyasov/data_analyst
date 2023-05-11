@@ -1,5 +1,5 @@
 ### Сравнение пользователей сервиса Яндекс.Музыка
-файл [yandex_music.ipynb](https://github.com/AndreyPlyasov/data_analyst_portfolio/blob/main/yandex_music.ipynb)  
+файл [yandex_music.ipynb](https://github.com/AndreyPlyasov/data_analyst_portfolio/blob/main/yandex_music/yandex_music.ipynb)  
 `Python` `Pandas`  
 Сравнение Москвы и Петербурга окружено мифами:
 Москва — мегаполис, подчинённый жёсткому ритму рабочей недели;

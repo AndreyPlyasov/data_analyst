@@ -1,5 +1,5 @@
 ### Исследование объявлений о продаже квартир
-файл [apartments_sale.ipynb](https://github.com/AndreyPlyasov/data_analyst_portfolio/blob/main/apartments_sale.ipynb)  
+файл [apartments_sale.ipynb](https://github.com/AndreyPlyasov/data_analyst_portfolio/blob/main/apartments_sale/apartments_sale.ipynb)  
 `Python` `Pandas` `Matplotlib` `исследовательский анализ данных` `визуализация данных` `предобработка данных`  
 В нашем распоряжении данные сервиса Яндекс Недвижимость — архив объявлений за несколько лет о продаже квартир в Санкт-Петербурге и соседних населённых пунктах.
 Наша задача — выполнить предобработку данных и изучить их, чтобы найти интересные особенности и зависимости, которые существуют на рынке недвижимости.
