@@ -1,4 +1,3 @@
-# data_analyst_portfolio
 ### A/B тест нового шрифта в мобильном приложении 
 файл [AB_test_app_font.ipynb](https://github.com/AndreyPlyasov/data_analyst_portfolio/blob/main/AB_test_app_font/AB_test_app_font.ipynb)  
 `A/B-тестирование` `Python` `Pandas` `Matplotlib` `Seaborn` `событийная аналитика` `продуктовые метрики` `Plotly` `проверка статистических гипотез` `визуализация данных`  
